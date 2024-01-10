@@ -1,10 +1,10 @@
 # Playwright tests for SportVision
-This repository contains test for the sportvision website.
-Built with:
-  Playwright
-  Typescript
-Installation:
-Prerequisite: NodeJS latest version. 
+## This repository contains test for the sportvision website.
+## Built with:
+  # Playwright
+# Typescript
+## Installation:
+# Prerequisite: NodeJS latest version. 
 Download this code or clone the repository.
 Navigate to the folder and install:
   - npm install
